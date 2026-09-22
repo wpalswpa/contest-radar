@@ -1,6 +1,6 @@
 {
  "schemaVersion": 1,
- "reviewedAt": "2026-09-17",
+ "reviewedAt": "2026-09-22",
  "contests": [
   {
    "id": "kmanufact",
@@ -9,26 +9,31 @@
    "url": "https://www.kamp-ai.kr/contestNoticeDetail?CPT_NOTICE_SEQ=27",
    "eligibility": "만 19세 이상 대한민국 국민, 팀 3명 이내. 일반 부문과 중소·중견기업 재직자 부문 구분.",
    "candidateDate": null,
-   "checkedAt": "2026-09-14",
+   "checkedAt": "2026-09-22",
    "verification": "checked",
    "deadlines": [
     {
      "label": "참가 신청",
      "date": "2026-09-17",
      "time": null
+    },
+    {
+     "label": "결과물 제출",
+     "date": "2026-10-08",
+     "time": "23:59"
     }
    ],
    "summary": "KAMP 제조 데이터를 이용해 설비·품질·공정 문제를 분석하는 대회입니다.",
-   "nextAction": "KAMP 회원가입·로그인 후 알림마당 → KAMP 경진대회에서 9/17까지 참가 신청합니다. 18시는 문의·기술지원 종료 시각입니다.",
-   "decision": "검토 전",
-   "project": null,
+   "nextAction": "9/16 2인 팀 접수 완료. 9/23 주제 동결(G1) 뒤 분석·보고서를 만든다. 제출 10/8 23:59, 목표는 10/7 저녁.",
+   "decision": "참가 확정",
+   "project": "01_제조데이터분석",
    "criteria": "일반 부문: 창의성·분석 성능·데이터 활용도. 재직자 부문은 현장 적용성 등 별도 평가.",
    "cost": "참가비 명시 여부 미확인.",
    "attendance": "본선 일정·참석 조건은 첨부 공고문 확인.",
-   "evidenceNote": "공식 공고 본문 확인. 신청 지원은 9/17 18시까지. 결과물 제출일은 이번에 본문으로 확인되지 않아 확정 일정에서 제외했습니다.",
+   "evidenceNote": "[자동대조불가] 공고 일정표가 이미지라 본문 텍스트로 제출일을 확인할 수 없다. 공식 공고 본문에서 신청 8/24~9/17을 확인했다. 제출·평가 일정은 공고의 일정표가 이미지라 본문 텍스트로 확인되지 않는다. 제출 10/8은 참가 팀이 공유받은 가이드북 기준이며 프로젝트 설계도에 동결돼 있다(2026-09-22 대조).",
    "jobFit": "데이터 분석·ML 엔지니어링",
    "portfolio": "문제 정의, 전처리, 기준 모델, 검증 분리, 오차 분석과 재현 노트북을 남길 수 있습니다.",
-   "scopeNote": "신청 마감과 모델 개발 기간을 구분합니다. 데이터·평가 규칙을 읽고 준비 가능한 과제인지 판단합니다.",
+   "scopeNote": "신청 마감(9/17, 종료)과 결과물 제출(10/8)을 구분한다. 서면 결과 10/26, 발표평가 10/30.",
    "source": null,
    "recheckNote": null
   },
@@ -39,7 +44,7 @@
    "url": "https://www.dxchallenge.co.kr/dataanalysis-2026",
    "eligibility": "데이터 활용에 관심 있는 국민 누구나. 개인 또는 1~4명 팀.",
    "candidateDate": null,
-   "checkedAt": "2026-09-14",
+   "checkedAt": "2026-09-22",
    "verification": "checked",
    "deadlines": [
     {
@@ -49,9 +54,9 @@
     }
    ],
    "summary": "부산 데이터를 분석해 지역 문제의 근거와 해결 방안을 제안하는 대회입니다.",
-   "nextAction": "확보한 데이터와 분석 질문부터 확인한 뒤, 보고서·시각화·활용 데이터 제출 준비 여부를 판단하세요.",
-   "decision": "검토 전",
-   "project": null,
+   "nextAction": "9/17 접수 완료. 10/29 본선(부산) 진출 여부를 기다린다.",
+   "decision": "제출 완료",
+   "project": "02_부산빅데이터",
    "criteria": "실제 분석 과정·결과 타당성 확인. Big-데이터웨이브 활용 +2.5점, 오픈랩 방문 및 데이터 활용 +2.5점. 세부 배점은 공식 서식 확인.",
    "cost": "참가비 명시 여부 미확인. 본선 이동 비용 별도 확인.",
    "attendance": "본선 진출 시 10/29 부산 발표평가에 팀원 전원 참석.",
@@ -69,7 +74,7 @@
    "url": "https://static.wanted.co.kr/ai-championship/2026/landing.html",
    "eligibility": "신청일 기준 만 19세 이상, 개인 또는 최대 5명. 참가 팀원은 원티드 회원이어야 합니다.",
    "candidateDate": null,
-   "checkedAt": "2026-09-14",
+   "checkedAt": "2026-09-22",
    "verification": "checked",
    "deadlines": [
     {
@@ -84,9 +89,9 @@
     }
    ],
    "summary": "AI로 실제 문제를 해결하는 작동 가능한 서비스를 만드는 대회입니다.",
-   "nextAction": "참가·팀원 등록 기한을 확인하고, 제출 가능한 핵심 기능과 공개 웹 URL을 준비하세요.",
-   "decision": "검토 전",
-   "project": null,
+   "nextAction": "트루핏으로 제출했다. 심사 결과를 기다린다.",
+   "decision": "제출 완료",
+   "project": "05_원티드랩AI",
    "criteria": "예선: 기획력·실현 가능성·확장성·AI 활용 적절성. 내부 심사 80%, 투표 20%. 본선: 기획력·확장성·기술력·발표 전달력.",
    "cost": "참가비 무료. 서비스 운영·외부 API 비용은 별도.",
    "attendance": "본선 진출 시 10/17 데모데이 참석.",
@@ -104,7 +109,7 @@
    "url": "https://xai.kaist.ac.kr/ai-contest/2026",
    "eligibility": "일반부: 만 18세 이상 성인, 개인 또는 1~4명 팀. 학생부는 별도.",
    "candidateDate": null,
-   "checkedAt": "2026-09-14",
+   "checkedAt": "2026-09-22",
    "verification": "checked",
    "deadlines": [
     {
@@ -114,8 +119,8 @@
     }
    ],
    "summary": "성남시와 지역사회의 문제를 AI로 해결하는 기획·구현 대회입니다.",
-   "nextAction": "성남 지역 수요의 근거와 별도 제출 공수를 확인한 뒤 참가 여부를 결정합니다.",
-   "decision": "검토 전",
+   "nextAction": "접수 마감(9/18)이 지났다. 이번 회차는 참가하지 않았다.",
+   "decision": "미참가",
    "project": null,
    "criteria": "예선: 문제정의 20·지역성 20·구현계획 20·차별성 15·AI 적절성 15·기대효과 10.",
    "cost": "참가비 명시 여부 미확인.",
@@ -134,7 +139,7 @@
    "url": "https://www.im-challenge.com",
    "eligibility": "전국 누구나. 개인 또는 최대 4명 팀.",
    "candidateDate": null,
-   "checkedAt": "2026-09-14",
+   "checkedAt": "2026-09-22",
    "verification": "checked",
    "deadlines": [
     {
@@ -144,8 +149,8 @@
     }
    ],
    "summary": "AI·블록체인 등으로 대구 시민의 공공·금융 서비스 문제를 해결하는 대회입니다.",
-   "nextAction": "대구 시민의 문제와 제안의 적합성, 접수 시 제출 서식을 먼저 확인합니다.",
-   "decision": "검토 전",
+   "nextAction": "접수 마감(9/20)이 지났다. 이번 회차는 참가하지 않았다.",
+   "decision": "미참가",
    "project": null,
    "criteria": "공식 홈페이지에 공모 주제 안내. 세부 심사 배점은 미확인.",
    "cost": "참가비 명시 여부 미확인.",
@@ -158,37 +163,13 @@
    "recheckNote": null
   },
   {
-   "id": "npark",
-   "name": "국립공원 위성 모니터링 AI 챌린지 — 주제 1·2",
-   "host": "국립공원공단 (AI Factory)",
-   "url": "https://aifactory.space/ko/page/knps",
-   "eligibility": "14세 이상 국민, 최대 5인",
-   "candidateDate": "2026-09-21",
-   "checkedAt": null,
-   "verification": "unverified",
-   "deadlines": [],
-   "summary": "기존 공모전 목록에서 옮긴 후보입니다. 현재 모집요강을 확인해야 합니다.",
-   "nextAction": "공식 모집요강의 연도·마감·대상·제출물을 확인하세요.",
-   "decision": "검토 전",
-   "project": null,
-   "criteria": "미확인",
-   "cost": "미확인",
-   "attendance": "미확인",
-   "evidenceNote": "기존 날짜·자격 정보는 재확인 전입니다.",
-   "jobFit": "직무 적합성 미확인",
-   "portfolio": "현재 모집·과제·결과물 공개 조건을 확인한 뒤 포트폴리오 활용도를 판단합니다.",
-   "scopeNote": "날짜·자격·공식 세부 공고부터 재확인해야 합니다.",
-   "source": null,
-   "recheckNote": null
-  },
-  {
    "id": "softbank",
    "name": "2026 SoftBank 채용 연계 해커톤",
    "host": "소프트뱅크·Progate·KOREC",
    "url": "https://docs.google.com/forms/d/e/1FAIpQLSdkkN3nH0dUvMDxs7KSLA747c6Te4S85KcLRCHNjngXSin5vw/viewform",
    "eligibility": "입사 시점 만 30세 미만. 2028년 4월·10월 입사 예정자가 주요 대상이며 2029년 4월 이후 예정자도 가능. 개인·팀 개발 경험과 예선·본선 전 일정 참석 필요.",
    "candidateDate": null,
-   "checkedAt": "2026-09-14",
+   "checkedAt": "2026-09-22",
    "verification": "checked",
    "deadlines": [
     {
@@ -198,8 +179,8 @@
     }
    ],
    "summary": "클라우드 기술을 활용해 사회 문제를 해결하는 프로젝트 해커톤입니다.",
-   "nextAction": "공식 신청 폼을 제출합니다. 입사 시점·연령·예선 및 본선 참석 조건을 확인하세요.",
-   "decision": "검토 전",
+   "nextAction": "신청 마감(9/22)이다. 일본 채용 연계라 이번 목표와 맞지 않아 참가하지 않는다.",
+   "decision": "미참가",
    "project": null,
    "criteria": "미확인",
    "cost": "미확인",
@@ -359,10 +340,10 @@
    "id": "kdata-problem",
    "name": "데이터+AI 혁신 챌린지 — 데이터 문제해결·안심구역 부문",
    "host": "과기정통부 · K-DATA",
-   "url": "https://dsz.kdata.or.kr/",
+   "url": "https://dsz.kdata.or.kr/svc/main/main.do",
    "eligibility": "데이터 분석·활용에 관심 있는 누구나, 개인 또는 5인 이내 팀",
    "candidateDate": null,
-   "checkedAt": "2026-09-21",
+   "checkedAt": "2026-09-22",
    "verification": "checked",
    "deadlines": [
     {
@@ -378,7 +359,7 @@
    "criteria": "미확인",
    "cost": "참가비 없음",
    "attendance": "접수 9/1~10/22 · 12월까지 진행",
-   "evidenceNote": "2026-09-21 주최 보도자료 확인. 과기정통부 통합 공고문은 hwpx 첨부라 본문 미확인.",
+   "evidenceNote": "[자동대조불가] 접수 목록을 스크립트로 그려 본문에 날짜가 없다. 접수 9/1~10/22는 언론 보도·공고로 확인했다(2026-09-22). 2026-09-21 주최 보도자료 확인. 과기정통부 통합 공고문은 hwpx 첨부라 본문 미확인. 2026-09-22: 기존 주소 dsz.kdata.or.kr/ 는 본문이 53자인 JS 리다이렉트 껍데기라 자동 대조가 항상 실패했다. 실제 페이지 주소로 고쳤다. 접수 9/1~10/22는 유지한다.",
    "jobFit": "데이터 분석",
    "portfolio": "미개방 데이터 분석 결과물.",
    "scopeNote": "접수처는 한국데이터산업진흥원 또는 대구 데이터안심구역 홈페이지.",
@@ -523,30 +504,6 @@
    "url": "https://aichallenge4all.or.kr",
    "eligibility": "트랙별 상이",
    "candidateDate": null,
-   "checkedAt": null,
-   "verification": "unverified",
-   "deadlines": [],
-   "summary": "기존 공모전 목록에서 옮긴 후보입니다. 현재 모집요강을 확인해야 합니다.",
-   "nextAction": "공식 모집요강의 연도·마감·대상·제출물을 확인하세요.",
-   "decision": "검토 전",
-   "project": null,
-   "criteria": "미확인",
-   "cost": "미확인",
-   "attendance": "미확인",
-   "evidenceNote": "기존 날짜·자격 정보는 재확인 전입니다.",
-   "jobFit": "직무 적합성 미확인",
-   "portfolio": "현재 모집·과제·결과물 공개 조건을 확인한 뒤 포트폴리오 활용도를 판단합니다.",
-   "scopeNote": "날짜·자격·공식 세부 공고부터 재확인해야 합니다.",
-   "source": null,
-   "recheckNote": null
-  },
-  {
-   "id": "axsprint",
-   "name": "지능형 홈 AI@Home matter AX Sprint 2026",
-   "host": "한국AI스마트홈산업협회 (IITP)",
-   "url": "https://www.kashi.or.kr",
-   "eligibility": "대학(원)생·종사자·일반인 1~3인",
-   "candidateDate": "2026-09-11",
    "checkedAt": null,
    "verification": "unverified",
    "deadlines": [],
@@ -816,30 +773,6 @@
    "scopeNote": "공식 공고의 마감 시각·자격·제출물·팀 인원을 확인한 뒤 참가 여부를 정합니다.",
    "nextAction": "공식 공고에서 연도·마감·대상·제출물을 확인하세요.",
    "recheckNote": null,
-   "id": "wv109050",
-   "name": "2026 COSS 차세대반도체 Microcontroller(MCU) 응용경진대회",
-   "host": "차세대반도체 혁신융합대학사업단",
-   "url": "https://academy.cossnet.com/contest/program/view?id=156&category=",
-   "eligibility": "전체 누구나 참여 로그인 후 참여 신규회원참여 HOT경품 전체 IT기기/스마트기기 가전/디지털가전 상품권/쿠폰 영화/공연예매 공모전 대외활동 정보 $(function(){ var link = $(\"#viewContents, #viewContentsIdea\").find(\"a\"); $.each(link,function(i){ $(this).attr(\"target\", \"_blank\"); }); var obj = $(\"#efrm select[id=email_domain]\"); if (obj.val()==\"직접입력\") { $(\"#efrm input[id=email_name]\").attr(\"readonly\", false); } $(\"#efrm select[id=email_domain]\").change(function() { var f = document.efrm; var value = $(\"#efrm select[id=email_domain]\").val(); if (value) { if (value==\"직접입력\") { f.email_name.value = \"\"; f.email_name.readOnly = false; f.email_name.focus(); } else { f.email_name.value = value; f.email_name.readOnly = true; } } }); $(\"#btnSend\").click(function() { var f = document.efrm; // make email address if (!$.inValid(\"\", f.email_id , \"메일아이디를 입력하세요.\")) return; if (!$.inValid(\"\", f.email_name , \"메일도메인을 선택하시거나 입력하세요.\")) return; if (confirm(\"전송하시겠습니까?\")) { f.target = $._actionfrm; f.submit(); } }); }); function fDown(val) { var f = document.downfrm; f.ix.value = val; f.target = $._actionfrm; f.submit(); } 메일보내기 이메일 @ 구글(G메일) 네이버 네이트 다음(한메일) 드림위즈 라이코스 야후! 코리아 야후! yahoo.com 파란닷컴 핫메일 MSN 직접입력 2026 COSS 차세대반도체 Microcontroller(MCU) 응용경진대회 조회수 : 1,610 분야 과학/공학 응모대상 대학생 (위비티 표기, 공식 확인 필요)",
-   "candidateDate": "2026-09-18",
-   "summary": "자동 수집 후보입니다. 위비티 분류: 별 전체 기획/아이디어 광고/마케팅 논문/리포트 영상/UCC/사진 디자인/캐릭터/웹툰 웹/모바일/IT 게임/소프트웨어 과학/공학 문학/글/시나리오 건축/건설/인테리어 네이밍/슬로건 예체능/미술/음악 대외활동/서포터즈 봉사활동 취업/창업 해외 기타 응시대상자 전체 제한없음 일반인 대학생 청소년 어린이 기타 주최사 전체 정부/공공기관 공기업 대기업 신문/방송/언론 외국계기업 중견/중소/벤처기업 비영리/협회/재단 해외 기타 시상내역 전체 5천만원이상 5천만원~3천만원 3천만원~1천만원 1천만원이하 취업특전 입사시가산점 인턴채용 정직원채용 기타 경품종류별 전체 현금/순금 가전/디지털가전 상품권/주유권 IT기기/SW 여행/항공/숙박 의류/패션/잡화 화장품/향수/미용 적립금/포인트 할인권/쿠폰/이용권 가구/주방/생활용품 헬스/운동용품 식품/음료/주류/약품 유아/아동/문구/완구 자동차/용품 도서/음반 시사회초대 콘서트/전시회/공연 영화/공연예매권 샘플 기타 응모형태 전체 간편응모 신규가입 100% 전원당첨 퀴즈 퍼즐/낱말퍼즐 게임 감상평/리플/단문 사연/후기/장문쓰기 행시짓기 노하우/요리법 사진/동영상 제안/공모 설문/투표 소문내기/추천인모집 모니터/테스터/체험 단순응모 선착순 즉석 SNS 기타. 공식 공고를 확인해야 합니다.",
-   "cost": "참가비 미확인. 위비티 표기 총 상금: 1천만원이하",
-   "evidenceNote": "2026-09-14 위비티 목록에서 자동 수집. 접수기간 2026-07-27~2026-09-18 (위비티 표기). 공식 확인 전.",
-   "jobFit": "분야 미확인 (자동 수집)",
-   "source": "위비티 2026-09-14"
-  },
-  {
-   "checkedAt": null,
-   "verification": "unverified",
-   "deadlines": [],
-   "decision": "검토 전",
-   "project": null,
-   "criteria": "미확인",
-   "attendance": "미확인",
-   "portfolio": "공식 공고를 확인한 뒤 남길 결과물을 판단합니다.",
-   "scopeNote": "공식 공고의 마감 시각·자격·제출물·팀 인원을 확인한 뒤 참가 여부를 정합니다.",
-   "nextAction": "공식 공고에서 연도·마감·대상·제출물을 확인하세요.",
-   "recheckNote": null,
    "id": "wv110998",
    "name": "공공 웹사이트 불법광고 탐지 도구 개발 공모전",
    "host": "행정안전부",
@@ -1094,5 +1027,5 @@
   }
  ],
  "slackChannel": "https://abc-sv32160.slack.com/archives/C0C14MCDZBR",
- "collectedAt": "2026-09-20"
+ "collectedAt": "2026-09-22"
 }
